@@ -1,0 +1,7 @@
+  GEN      util/build_version.cc
+  GEN      util/build_version.cc
+  CC       util/build_version.o
+  CC       utilities/persistent_cache/volatile_tier_impl.o
+  CC       utilities/persistent_cache/block_cache_tier_metadata.o
+  CC       utilities/persistent_cache/block_cache_tier.o
+  CCLD     db_bench
