@@ -10,6 +10,7 @@
 #include <memory>
 #include <string>
 #include <vector>
+#include <functional>
 
 #include "rocksdb/comparator.h"
 #include "rocksdb/env.h"
