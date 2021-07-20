@@ -31,6 +31,7 @@
 #include <mutex>
 #include <thread>
 #include <unordered_map>
+#include <functional>
 #include <bitset>
 
 #include "db/db_impl.h"

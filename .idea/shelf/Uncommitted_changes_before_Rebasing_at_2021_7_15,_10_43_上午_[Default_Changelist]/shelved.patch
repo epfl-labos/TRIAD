@@ -1,0 +1,53 @@
+Index: examples/compaction_filter_example.cc
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>// Copyright (c) 2011-present, Facebook, Inc.  All rights reserved.\n// This source code is licensed under the BSD-style license found in the\n// LICENSE file in the root directory of this source tree. An additional grant\n// of patent rights can be found in the PATENTS file in the same directory.\n\n#include <rocksdb/compaction_filter.h>\n#include <rocksdb/db.h>\n#include <rocksdb/merge_operator.h>\n#include <rocksdb/options.h>\n\nclass MyMerge : public rocksdb::MergeOperator {\n public:\n  virtual bool FullMergeV2(const MergeOperationInput& merge_in,\n                           MergeOperationOutput* merge_out) const override {\n    merge_out->new_value.clear();\n    if (merge_in.existing_value != nullptr) {\n      merge_out->new_value.assign(merge_in.existing_value->data(),\n                                  merge_in.existing_value->size());\n    }\n    for (const rocksdb::Slice& m : merge_in.operand_list) {\n      fprintf(stderr, \"Merge(%s)\\n\", m.ToString().c_str());\n      // the compaction filter filters out bad values\n      assert(m.ToString() != \"bad\");\n      merge_out->new_value.assign(m.data(), m.size());\n    }\n    return true;\n  }\n\n  const char* Name() const override { return \"MyMerge\"; }\n};\n\nclass MyFilter : public rocksdb::CompactionFilter {\n public:\n  bool Filter(int level, const rocksdb::Slice& key,\n              const rocksdb::Slice& existing_value, std::string* new_value,\n              bool* value_changed) const override {\n    fprintf(stderr, \"Filter(%s)\\n\", key.ToString().c_str());\n    ++count_;\n    assert(*value_changed == false);\n    return false;\n  }\n\n  bool FilterMergeOperand(int level, const rocksdb::Slice& key,\n                          const rocksdb::Slice& existing_value) const override {\n    fprintf(stderr, \"FilterMerge(%s)\\n\", key.ToString().c_str());\n    ++merge_count_;\n    return existing_value == \"bad\";\n  }\n\n  const char* Name() const override { return \"MyFilter\"; }\n\n  mutable int count_ = 0;\n  mutable int merge_count_ = 0;\n};\n\nint main() {\n  rocksdb::DB* raw_db;\n  rocksdb::Status status;\n\n  MyFilter filter;\n\n  system(\"rm -rf /tmp/rocksmergetest\");\n  rocksdb::Options options;\n  options.create_if_missing = true;\n  options.merge_operator.reset(new MyMerge);\n  options.compaction_filter = &filter;\n  status = rocksdb::DB::Open(options, \"/tmp/rocksmergetest\", &raw_db);\n  assert(status.ok());\n  std::unique_ptr<rocksdb::DB> db(raw_db);\n\n  rocksdb::WriteOptions wopts;\n  db->Merge(wopts, \"0\", \"bad\");  // This is filtered out\n  db->Merge(wopts, \"1\", \"data1\");\n  db->Merge(wopts, \"1\", \"bad\");\n  db->Merge(wopts, \"1\", \"data2\");\n  db->Merge(wopts, \"1\", \"bad\");\n  db->Merge(wopts, \"3\", \"data3\");\n  db->CompactRange(rocksdb::CompactRangeOptions(), nullptr, nullptr);\n  fprintf(stderr, \"filter.count_ = %d\\n\", filter.count_);\n  assert(filter.count_ == 1);\n  fprintf(stderr, \"filter.merge_count_ = %d\\n\", filter.merge_count_);\n  assert(filter.merge_count_ == 5);\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/examples/compaction_filter_example.cc b/examples/compaction_filter_example.cc
+--- a/examples/compaction_filter_example.cc	(revision c9f9067aada1c0d605b1a91db3c86a03746aa845)
++++ b/examples/compaction_filter_example.cc	(date 1625835579243)
+@@ -64,7 +64,7 @@
+   options.create_if_missing = true;
+   options.merge_operator.reset(new MyMerge);
+   options.compaction_filter = &filter;
+-  status = rocksdb::DB::Open(options, "/tmp/rocksmergetest", &raw_db);
++  status = rocksdb::DB::Open(n, "/tmp/rocksmergetest", &raw_db);
+   assert(status.ok());
+   std::unique_ptr<rocksdb::DB> db(raw_db);
+ 
+Index: tools/ycsb_test.sh
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/tools/ycsb_test.sh b/tools/ycsb_test.sh
+new file mode 100755
+--- /dev/null	(date 1625657293430)
++++ b/tools/ycsb_test.sh	(date 1625657293430)
+@@ -0,0 +1,7 @@
++#!/bin/bash
++
++echo "--> workloada"
++sudo fio --name=disk_benchmark --directory=$TEST_DIR --numjobs=8 \
++         --size=10G --time_based --runtime=60s --ramp_time=2s --ioengine=libaio \
++         --direct=1 --verify=0 --bs=1M --iodepth=64 --rw=write \
++         --group_reporting=1
+Index: util/build_version.cc
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#include \"build_version.h\"\nconst char* rocksdb_build_git_sha = \"rocksdb_build_git_sha:\";\nconst char* rocksdb_build_git_date = \"rocksdb_build_git_date:2017-07-06\";\nconst char* rocksdb_build_compile_date = __DATE__;\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/util/build_version.cc b/util/build_version.cc
+--- a/util/build_version.cc	(revision c9f9067aada1c0d605b1a91db3c86a03746aa845)
++++ b/util/build_version.cc	(date 1625227245497)
+@@ -1,4 +1,4 @@
+ #include "build_version.h"
+-const char* rocksdb_build_git_sha = "rocksdb_build_git_sha:";
+-const char* rocksdb_build_git_date = "rocksdb_build_git_date:2017-07-06";
++const char* rocksdb_build_git_sha = "rocksdb_build_git_sha:c9f9067aada1c0d605b1a91db3c86a03746aa845";
++const char* rocksdb_build_git_date = "rocksdb_build_git_date:2021-07-02";
+ const char* rocksdb_build_compile_date = __DATE__;
