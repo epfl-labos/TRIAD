@@ -15,6 +15,7 @@
 #include <stdexcept>
 #include <string>
 #include <thread>
+#include <functional>
 
 #include "rocksdb/cache.h"
 #include "rocksdb/comparator.h"

@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="TRIAD" targetName="valgrind_test" />
+      <config projectName="TRIAD" targetName="persistent_cache_test" />
+      <config projectName="TRIAD" targetName="ldb_cmd_test" />
+      <config projectName="TRIAD" targetName="install-headers" />
+      <config projectName="TRIAD" targetName="flush_job_test" />
+      <config projectName="TRIAD" targetName="file_reader_writer_test" />
+      <config projectName="TRIAD" targetName="delete_scheduler_test" />
+      <config projectName="TRIAD" targetName="db_test" />
+      <config projectName="TRIAD" targetName="unity.a" />
+      <config projectName="TRIAD" targetName="install-static" />
+      <config projectName="TRIAD" targetName="db_bloom_filter_test" />
+      <config projectName="TRIAD" targetName="ubsan_crash_test" />
+      <config projectName="TRIAD" targetName="lru_cache_test" />
+      <config projectName="TRIAD" targetName="libz.a" />
+      <config projectName="TRIAD" targetName="release" />
+      <config projectName="TRIAD" targetName="inlineskiplist_test" />
+      <config projectName="TRIAD" targetName="full_filter_block_test" />
+      <config projectName="TRIAD" targetName="spatial_db_test" />
+      <config projectName="TRIAD" targetName="db_wal_test" />
+      <config projectName="TRIAD" targetName="corruption_test" />
+      <config projectName="TRIAD" targetName="tools" />
+      <config projectName="TRIAD" targetName="option_change_migration_test" />
+      <config projectName="TRIAD" targetName="write_stress" />
+      <config projectName="TRIAD" targetName="external_sst_file_test" />
+      <config projectName="TRIAD" targetName="compaction_picker_test" />
+      <config projectName="TRIAD" targetName="deletefile_test" />
+      <config projectName="TRIAD" targetName="parallel_manual_compaction_test" />
+      <config projectName="TRIAD" targetName="db_flush_test" />
+      <config projectName="TRIAD" targetName="blob_db_test" />
+      <config projectName="TRIAD" targetName="options_util_test" />
+      <config projectName="TRIAD" targetName="db_stress" />
+      <config projectName="TRIAD" targetName="librocksdb_debug.4.dylib" />
+      <config projectName="TRIAD" targetName="backupable_db_test" />
+      <config projectName="TRIAD" targetName="options_file_test" />
+      <config projectName="TRIAD" targetName="FORCE" />
+      <config projectName="TRIAD" targetName="db_bench_tool_test" />
+      <config projectName="TRIAD" targetName="plain_table_db_test" />
+      <config projectName="TRIAD" targetName="compaction_job_stats_test" />
+      <config projectName="TRIAD" targetName="analyze" />
+      <config projectName="TRIAD" targetName="redis_test" />
+      <config projectName="TRIAD" targetName="version_set_test" />
+      <config projectName="TRIAD" targetName="compaction_iterator_test" />
+      <config projectName="TRIAD" targetName="jdb_bench" />
+      <config projectName="TRIAD" targetName="transaction_test" />
+      <config projectName="TRIAD" targetName="jclean" />
+      <config projectName="TRIAD" targetName="whitebox_crash_test" />
+      <config projectName="TRIAD" targetName="options_settable_test" />
+      <config projectName="TRIAD" targetName="memtablerep_bench" />
+      <config projectName="TRIAD" targetName="write_batch_test" />
+      <config projectName="TRIAD" targetName="valgrind_check_0" />
+      <config projectName="TRIAD" targetName="check" />
+      <config projectName="TRIAD" targetName="crc32c_test" />
+      <config projectName="TRIAD" targetName="asan_crash_test" />
+      <config projectName="TRIAD" targetName="merger_test" />
+      <config projectName="TRIAD" targetName="db_inplace_update_test" />
+      <config projectName="TRIAD" targetName="parallel_db_test" />
+      <config projectName="TRIAD" targetName="parallel_backupable_db_test" />
+      <config projectName="TRIAD" targetName="liblz4.a" />
+      <config projectName="TRIAD" targetName="cuckoo_table_builder_test" />
+      <config projectName="TRIAD" targetName="ubsan_check" />
+      <config projectName="TRIAD" targetName="dynamic_bloom_test" />
+      <config projectName="TRIAD" targetName="format" />
+      <config projectName="TRIAD" targetName="db_sst_test" />
+      <config projectName="TRIAD" targetName="parallel_check" />
+      <config projectName="TRIAD" targetName="cuckoo_table_db_test" />
+      <config projectName="TRIAD" targetName="db_tailing_iter_test" />
+      <config projectName="TRIAD" targetName="manual_compaction_test" />
+      <config projectName="TRIAD" targetName="db_repl_stress" />
+      <config projectName="TRIAD" targetName="merge_helper_test" />
+      <config projectName="TRIAD" targetName="db_sanity_test" />
+      <config projectName="TRIAD" targetName="tools_lib" />
+      <config projectName="TRIAD" targetName="db_dynamic_level_test" />
+      <config projectName="TRIAD" targetName="table_reader_bench" />
+      <config projectName="TRIAD" targetName="heap_test" />
+      <config projectName="TRIAD" targetName="cache_bench" />
+      <config projectName="TRIAD" targetName="librocksdb_env_basic_test.a" />
+      <config projectName="TRIAD" targetName="db_iter_test" />
+      <config projectName="TRIAD" targetName="env_registry_test" />
+      <config projectName="TRIAD" targetName="wal_manager_test" />
+      <config projectName="TRIAD" targetName="bloom_test" />
+      <config projectName="TRIAD" targetName="rocksdbjavastaticpublishcentral" />
+      <config projectName="TRIAD" targetName="jtest" />
+      <config projectName="TRIAD" targetName="install" />
+      <config projectName="TRIAD" targetName="persistent_cache_bench" />
+      <config projectName="TRIAD" targetName="xfunc" />
+      <config projectName="TRIAD" targetName="db_compaction_filter_test" />
+      <config projectName="TRIAD" targetName="options_test" />
+      <config projectName="TRIAD" targetName="parallel_fault_injection_test" />
+      <config projectName="TRIAD" targetName="version_builder_test" />
+      <config projectName="TRIAD" targetName="stringappend_test" />
+      <config projectName="TRIAD" targetName="skiplist_test" />
+      <config projectName="TRIAD" targetName="log_write_bench" />
+      <config projectName="TRIAD" targetName="tags" />
+      <config projectName="TRIAD" targetName="file_indexer_test" />
+      <config projectName="TRIAD" targetName="table_properties_collector_test" />
+      <config projectName="TRIAD" targetName="rocksdbjavastatic" />
+      <config projectName="TRIAD" targetName="prefix_test" />
+      <config projectName="TRIAD" targetName="version_edit_test" />
+      <config projectName="TRIAD" targetName="memtable_list_test" />
+      <config projectName="TRIAD" targetName="parallel_db_wal_test" />
+      <config projectName="TRIAD" targetName="asan_check" />
+      <config projectName="TRIAD" targetName="package" />
+      <config projectName="TRIAD" targetName="env_test" />
+      <config projectName="TRIAD" targetName="slice_transform_test" />
+      <config projectName="TRIAD" targetName="sst_dump" />
+      <config projectName="TRIAD" targetName="default" />
+      <config projectName="TRIAD" targetName="auto_roll_logger_test" />
+      <config projectName="TRIAD" targetName="uninstall" />
+      <config projectName="TRIAD" targetName="thread_local_test" />
+      <config projectName="TRIAD" targetName="db_block_cache_test" />
+      <config projectName="TRIAD" targetName="statistics_test" />
+      <config projectName="TRIAD" targetName="db_properties_test" />
+      <config projectName="TRIAD" targetName="Makefile" />
+      <config projectName="TRIAD" targetName="db_universal_compaction_test" />
+      <config projectName="TRIAD" targetName="libsnappy.a" />
+      <config projectName="TRIAD" targetName="db_io_failure_test" />
+      <config projectName="TRIAD" targetName="fault_injection_test" />
+      <config projectName="TRIAD" targetName="event_logger_test" />
+      <config projectName="TRIAD" targetName="librocksdb_debug.4.13.0.dylib" />
+      <config projectName="TRIAD" targetName="valgrind_check" />
+      <config projectName="TRIAD" targetName="watch-log" />
+      <config projectName="TRIAD" targetName="cuckoo_table_reader_test" />
+      <config projectName="TRIAD" targetName="column_aware_encoding_exp" />
+      <config projectName="TRIAD" targetName="blackbox_crash_test" />
+      <config projectName="TRIAD" targetName="block_based_filter_block_test" />
+      <config projectName="TRIAD" targetName="gen_parallel_tests" />
+      <config projectName="TRIAD" targetName="document_db_test" />
+      <config projectName="TRIAD" targetName="autovector_test" />
+      <config projectName="TRIAD" targetName="ldb" />
+      <config projectName="TRIAD" targetName="rocksdbjava" />
+      <config projectName="TRIAD" targetName="librocksdb_debug.a" />
+      <config projectName="TRIAD" targetName="test_libs" />
+      <config projectName="TRIAD" targetName="librocksdb_debug_tools.a" />
+      <config projectName="TRIAD" targetName="db_log_iter_test" />
+      <config projectName="TRIAD" targetName="parallel_db_sst_test" />
+      <config projectName="TRIAD" targetName="install-shared" />
+      <config projectName="TRIAD" targetName="depend" />
+      <config projectName="TRIAD" targetName="column_aware_encoding_test" />
+      <config projectName="TRIAD" targetName="unity_test" />
+      <config projectName="TRIAD" targetName="db_options_test" />
+      <config projectName="TRIAD" targetName="hash_table_test" />
+      <config projectName="TRIAD" targetName="table_test" />
+      <config projectName="TRIAD" targetName="jtest_run" />
+      <config projectName="TRIAD" targetName="coding_test" />
+      <config projectName="TRIAD" targetName="static_lib" />
+      <config projectName="TRIAD" targetName="mock_env_test" />
+      <config projectName="TRIAD" targetName="write_callback_test" />
+      <config projectName="TRIAD" targetName="memory_test" />
+      <config projectName="TRIAD" targetName="db_test2" />
+      <config projectName="TRIAD" targetName="dbformat_test" />
+      <config projectName="TRIAD" targetName="crash_test" />
+      <config projectName="TRIAD" targetName="log_test" />
+      <config projectName="TRIAD" targetName="block_test" />
+      <config projectName="TRIAD" targetName="iostats_context_test" />
+      <config projectName="TRIAD" targetName="parallel_db_universal_compaction_test" />
+      <config projectName="TRIAD" targetName="parallel_inlineskiplist_test" />
+      <config projectName="TRIAD" targetName="dbg" />
+      <config projectName="TRIAD" targetName="rocksdb_dump" />
+      <config projectName="TRIAD" targetName="commit_prereq" />
+      <config projectName="TRIAD" targetName="check_some" />
+      <config projectName="TRIAD" targetName="all" />
+      <config projectName="TRIAD" targetName="db_compaction_test" />
+      <config projectName="TRIAD" targetName="filename_test" />
+      <config projectName="TRIAD" targetName="util_merge_operators_test" />
+      <config projectName="TRIAD" targetName="reduce_levels_test" />
+      <config projectName="TRIAD" targetName="librocksdb_debug.4.13.dylib" />
+      <config projectName="TRIAD" targetName="arena_test" />
+      <config projectName="TRIAD" targetName="parallel_external_sst_file_test" />
+      <config projectName="TRIAD" targetName="c_test" />
+      <config projectName="TRIAD" targetName="db_table_properties_test" />
+      <config projectName="TRIAD" targetName="env_mirror_test" />
+      <config projectName="TRIAD" targetName="db_iterator_test" />
+      <config projectName="TRIAD" targetName="sst_dump_test" />
+      <config projectName="TRIAD" targetName="perf_context_test" />
+      <config projectName="TRIAD" targetName="repair_test" />
+      <config projectName="TRIAD" targetName="check_0" />
+      <config projectName="TRIAD" targetName="write_controller_test" />
+      <config projectName="TRIAD" targetName="cache_test" />
+      <config projectName="TRIAD" targetName="rocksdbjavastaticrelease" />
+      <config projectName="TRIAD" targetName="rocksdbjavastaticpublish" />
+      <config projectName="TRIAD" targetName="listener_test" />
+      <config projectName="TRIAD" targetName="coverage" />
+      <config projectName="TRIAD" targetName="parallel_table_test" />
+      <config projectName="TRIAD" targetName="ttl_test" />
+      <config projectName="TRIAD" targetName="db_bench" />
+      <config projectName="TRIAD" targetName="rate_limiter_test" />
+      <config projectName="TRIAD" targetName="histogram_test" />
+      <config projectName="TRIAD" targetName="rocksdb_undump" />
+      <config projectName="TRIAD" targetName="parallel_db_compaction_filter_test" />
+      <config projectName="TRIAD" targetName="geodb_test" />
+      <config projectName="TRIAD" targetName="write_batch_with_index_test" />
+      <config projectName="TRIAD" targetName="optimistic_transaction_test" />
+      <config projectName="TRIAD" targetName="compact_files_test" />
+      <config projectName="TRIAD" targetName="shared_lib" />
+      <config projectName="TRIAD" targetName="compact_on_deletion_collector_test" />
+      <config projectName="TRIAD" targetName="checkpoint_test" />
+      <config projectName="TRIAD" targetName="librocksdb_debug.dylib" />
+      <config projectName="TRIAD" targetName="compaction_job_test" />
+      <config projectName="TRIAD" targetName="filelock_test" />
+      <config projectName="TRIAD" targetName="env_basic_test" />
+      <config projectName="TRIAD" targetName="comparator_db_test" />
+      <config projectName="TRIAD" targetName="jtest_compile" />
+      <config projectName="TRIAD" targetName="thread_list_test" />
+      <config projectName="TRIAD" targetName="sim_cache_test" />
+      <config projectName="TRIAD" targetName="column_family_test" />
+      <config projectName="TRIAD" targetName="date_tiered_test" />
+      <config projectName="TRIAD" targetName="json_document_test" />
+      <config projectName="TRIAD" targetName="libbz2.a" />
+      <config projectName="TRIAD" targetName="ldb_tests" />
+      <config projectName="TRIAD" targetName="parallel_db_compaction_test" />
+      <config projectName="TRIAD" targetName="merge_test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9cd3ec2-226f-495b-8a70-ae856e5f5653" name="Default Changelist" comment="change Makefile 'CXXFLAGS += -std=gnu++11'">
+      <change beforePath="$PROJECT_DIR$/.idea/TRIAD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TRIAD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build_version.cc" beforeDir="false" afterPath="$PROJECT_DIR$/util/build_version.cc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="TRIAD" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="TRIAD" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="$PROJECT_DIR$/db/db_flush_test.cc" />
+  </component>
+  <component name="ProjectId" id="1ul59uDOdG2r3ZAB2ogAoEDrGRs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tools" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tools" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile Application.all">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FORCE" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="FORCE" CONFIG_NAME="FORCE" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Makefile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="Makefile" CONFIG_NAME="Makefile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="analyze" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="analyze" CONFIG_NAME="analyze" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arena_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="arena_test" CONFIG_NAME="arena_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="asan_check" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="asan_check" CONFIG_NAME="asan_check" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="asan_crash_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="asan_crash_test" CONFIG_NAME="asan_crash_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="auto_roll_logger_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="auto_roll_logger_test" CONFIG_NAME="auto_roll_logger_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="autovector_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="autovector_test" CONFIG_NAME="autovector_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backupable_db_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="backupable_db_test" CONFIG_NAME="backupable_db_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blackbox_crash_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="blackbox_crash_test" CONFIG_NAME="blackbox_crash_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blob_db_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="blob_db_test" CONFIG_NAME="blob_db_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="block_based_filter_block_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="block_based_filter_block_test" CONFIG_NAME="block_based_filter_block_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="block_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="block_test" CONFIG_NAME="block_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bloom_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="bloom_test" CONFIG_NAME="bloom_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="c_test" CONFIG_NAME="c_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cache_bench" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="cache_bench" CONFIG_NAME="cache_bench" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cache_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="cache_test" CONFIG_NAME="cache_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="check" CONFIG_NAME="check" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check_0" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="check_0" CONFIG_NAME="check_0" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check_some" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="check_some" CONFIG_NAME="check_some" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkpoint_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="checkpoint_test" CONFIG_NAME="checkpoint_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coding_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="coding_test" CONFIG_NAME="coding_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="column_aware_encoding_exp" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="column_aware_encoding_exp" CONFIG_NAME="column_aware_encoding_exp" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="column_aware_encoding_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="column_aware_encoding_test" CONFIG_NAME="column_aware_encoding_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="column_family_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="column_family_test" CONFIG_NAME="column_family_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="commit_prereq" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="commit_prereq" CONFIG_NAME="commit_prereq" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compact_files_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="compact_files_test" CONFIG_NAME="compact_files_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compact_on_deletion_collector_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="compact_on_deletion_collector_test" CONFIG_NAME="compact_on_deletion_collector_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compaction_iterator_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="compaction_iterator_test" CONFIG_NAME="compaction_iterator_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compaction_job_stats_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="compaction_job_stats_test" CONFIG_NAME="compaction_job_stats_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compaction_job_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="compaction_job_test" CONFIG_NAME="compaction_job_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compaction_picker_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="compaction_picker_test" CONFIG_NAME="compaction_picker_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comparator_db_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="comparator_db_test" CONFIG_NAME="comparator_db_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="corruption_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="corruption_test" CONFIG_NAME="corruption_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="coverage" CONFIG_NAME="coverage" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="crash_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="crash_test" CONFIG_NAME="crash_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="crc32c_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="crc32c_test" CONFIG_NAME="crc32c_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cuckoo_table_builder_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="cuckoo_table_builder_test" CONFIG_NAME="cuckoo_table_builder_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cuckoo_table_db_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="cuckoo_table_db_test" CONFIG_NAME="cuckoo_table_db_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cuckoo_table_reader_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="cuckoo_table_reader_test" CONFIG_NAME="cuckoo_table_reader_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="date_tiered_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="date_tiered_test" CONFIG_NAME="date_tiered_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_bench" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_bench" CONFIG_NAME="db_bench" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_bench_tool_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_bench_tool_test" CONFIG_NAME="db_bench_tool_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_block_cache_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_block_cache_test" CONFIG_NAME="db_block_cache_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_bloom_filter_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_bloom_filter_test" CONFIG_NAME="db_bloom_filter_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_compaction_filter_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_compaction_filter_test" CONFIG_NAME="db_compaction_filter_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_compaction_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_compaction_test" CONFIG_NAME="db_compaction_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_dynamic_level_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_dynamic_level_test" CONFIG_NAME="db_dynamic_level_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_flush_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_flush_test" CONFIG_NAME="db_flush_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_inplace_update_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_inplace_update_test" CONFIG_NAME="db_inplace_update_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_io_failure_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_io_failure_test" CONFIG_NAME="db_io_failure_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_iter_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_iter_test" CONFIG_NAME="db_iter_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_iterator_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_iterator_test" CONFIG_NAME="db_iterator_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_log_iter_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_log_iter_test" CONFIG_NAME="db_log_iter_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_options_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_options_test" CONFIG_NAME="db_options_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_properties_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_properties_test" CONFIG_NAME="db_properties_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_repl_stress" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_repl_stress" CONFIG_NAME="db_repl_stress" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_sanity_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_sanity_test" CONFIG_NAME="db_sanity_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_sst_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_sst_test" CONFIG_NAME="db_sst_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_stress" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_stress" CONFIG_NAME="db_stress" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_table_properties_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_table_properties_test" CONFIG_NAME="db_table_properties_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_tailing_iter_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_tailing_iter_test" CONFIG_NAME="db_tailing_iter_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_test" CONFIG_NAME="db_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_test2" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_test2" CONFIG_NAME="db_test2" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_universal_compaction_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_universal_compaction_test" CONFIG_NAME="db_universal_compaction_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db_wal_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="db_wal_test" CONFIG_NAME="db_wal_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dbformat_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="dbformat_test" CONFIG_NAME="dbformat_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dbg" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="dbg" CONFIG_NAME="dbg" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="default" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="default" CONFIG_NAME="default" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="delete_scheduler_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="delete_scheduler_test" CONFIG_NAME="delete_scheduler_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deletefile_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="deletefile_test" CONFIG_NAME="deletefile_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="depend" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="depend" CONFIG_NAME="depend" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="document_db_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="document_db_test" CONFIG_NAME="document_db_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamic_bloom_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="dynamic_bloom_test" CONFIG_NAME="dynamic_bloom_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="env_basic_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="env_basic_test" CONFIG_NAME="env_basic_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="env_mirror_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="env_mirror_test" CONFIG_NAME="env_mirror_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="env_registry_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="env_registry_test" CONFIG_NAME="env_registry_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="env_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="env_test" CONFIG_NAME="env_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="event_logger_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="event_logger_test" CONFIG_NAME="event_logger_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="external_sst_file_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="external_sst_file_test" CONFIG_NAME="external_sst_file_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fault_injection_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="fault_injection_test" CONFIG_NAME="fault_injection_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file_indexer_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="file_indexer_test" CONFIG_NAME="file_indexer_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file_reader_writer_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="file_reader_writer_test" CONFIG_NAME="file_reader_writer_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filelock_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="filelock_test" CONFIG_NAME="filelock_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="filename_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="filename_test" CONFIG_NAME="filename_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="flush_job_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="flush_job_test" CONFIG_NAME="flush_job_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="format" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="format" CONFIG_NAME="format" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="full_filter_block_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="full_filter_block_test" CONFIG_NAME="full_filter_block_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gen_parallel_tests" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="gen_parallel_tests" CONFIG_NAME="gen_parallel_tests" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geodb_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="geodb_test" CONFIG_NAME="geodb_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_table_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="hash_table_test" CONFIG_NAME="hash_table_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heap_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="heap_test" CONFIG_NAME="heap_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="histogram_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="histogram_test" CONFIG_NAME="histogram_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inlineskiplist_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="inlineskiplist_test" CONFIG_NAME="inlineskiplist_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-headers" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="install-headers" CONFIG_NAME="install-headers" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-shared" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="install-shared" CONFIG_NAME="install-shared" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-static" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="install-static" CONFIG_NAME="install-static" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="install" CONFIG_NAME="install" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iostats_context_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="iostats_context_test" CONFIG_NAME="iostats_context_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jclean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="jclean" CONFIG_NAME="jclean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdb_bench" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="jdb_bench" CONFIG_NAME="jdb_bench" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="json_document_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="json_document_test" CONFIG_NAME="json_document_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jtest" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="jtest" CONFIG_NAME="jtest" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jtest_compile" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="jtest_compile" CONFIG_NAME="jtest_compile" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jtest_run" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="jtest_run" CONFIG_NAME="jtest_run" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ldb" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="ldb" CONFIG_NAME="ldb" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ldb_cmd_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="ldb_cmd_test" CONFIG_NAME="ldb_cmd_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ldb_tests" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="ldb_tests" CONFIG_NAME="ldb_tests" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libbz2.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="libbz2.a" CONFIG_NAME="libbz2.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="liblz4.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="liblz4.a" CONFIG_NAME="liblz4.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="librocksdb_debug.4.13.0.dylib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="librocksdb_debug.4.13.0.dylib" CONFIG_NAME="librocksdb_debug.4.13.0.dylib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="librocksdb_debug.4.13.dylib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="librocksdb_debug.4.13.dylib" CONFIG_NAME="librocksdb_debug.4.13.dylib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="librocksdb_debug.4.dylib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="librocksdb_debug.4.dylib" CONFIG_NAME="librocksdb_debug.4.dylib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="librocksdb_debug.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="librocksdb_debug.a" CONFIG_NAME="librocksdb_debug.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="librocksdb_debug.dylib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="librocksdb_debug.dylib" CONFIG_NAME="librocksdb_debug.dylib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="librocksdb_debug_tools.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="librocksdb_debug_tools.a" CONFIG_NAME="librocksdb_debug_tools.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="librocksdb_env_basic_test.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="librocksdb_env_basic_test.a" CONFIG_NAME="librocksdb_env_basic_test.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libsnappy.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="libsnappy.a" CONFIG_NAME="libsnappy.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libz.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="libz.a" CONFIG_NAME="libz.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listener_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="listener_test" CONFIG_NAME="listener_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="log_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="log_test" CONFIG_NAME="log_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="log_write_bench" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="log_write_bench" CONFIG_NAME="log_write_bench" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lru_cache_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="lru_cache_test" CONFIG_NAME="lru_cache_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="manual_compaction_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="manual_compaction_test" CONFIG_NAME="manual_compaction_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="memory_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="memory_test" CONFIG_NAME="memory_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="memtable_list_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="memtable_list_test" CONFIG_NAME="memtable_list_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="memtablerep_bench" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="memtablerep_bench" CONFIG_NAME="memtablerep_bench" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_helper_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="merge_helper_test" CONFIG_NAME="merge_helper_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="merge_test" CONFIG_NAME="merge_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merger_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="merger_test" CONFIG_NAME="merger_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mock_env_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="mock_env_test" CONFIG_NAME="mock_env_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="optimistic_transaction_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="optimistic_transaction_test" CONFIG_NAME="optimistic_transaction_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="option_change_migration_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="option_change_migration_test" CONFIG_NAME="option_change_migration_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="options_file_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="options_file_test" CONFIG_NAME="options_file_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="options_settable_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="options_settable_test" CONFIG_NAME="options_settable_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="options_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="options_test" CONFIG_NAME="options_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="options_util_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="options_util_test" CONFIG_NAME="options_util_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="package" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="package" CONFIG_NAME="package" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_backupable_db_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_backupable_db_test" CONFIG_NAME="parallel_backupable_db_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_check" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_check" CONFIG_NAME="parallel_check" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_db_compaction_filter_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_db_compaction_filter_test" CONFIG_NAME="parallel_db_compaction_filter_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_db_compaction_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_db_compaction_test" CONFIG_NAME="parallel_db_compaction_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_db_sst_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_db_sst_test" CONFIG_NAME="parallel_db_sst_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_db_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_db_test" CONFIG_NAME="parallel_db_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_db_universal_compaction_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_db_universal_compaction_test" CONFIG_NAME="parallel_db_universal_compaction_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_db_wal_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_db_wal_test" CONFIG_NAME="parallel_db_wal_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_external_sst_file_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_external_sst_file_test" CONFIG_NAME="parallel_external_sst_file_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_fault_injection_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_fault_injection_test" CONFIG_NAME="parallel_fault_injection_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_inlineskiplist_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_inlineskiplist_test" CONFIG_NAME="parallel_inlineskiplist_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_manual_compaction_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_manual_compaction_test" CONFIG_NAME="parallel_manual_compaction_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel_table_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="parallel_table_test" CONFIG_NAME="parallel_table_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perf_context_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="perf_context_test" CONFIG_NAME="perf_context_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="persistent_cache_bench" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="persistent_cache_bench" CONFIG_NAME="persistent_cache_bench" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="persistent_cache_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="persistent_cache_test" CONFIG_NAME="persistent_cache_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="plain_table_db_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="plain_table_db_test" CONFIG_NAME="plain_table_db_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prefix_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="prefix_test" CONFIG_NAME="prefix_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rate_limiter_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="rate_limiter_test" CONFIG_NAME="rate_limiter_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="redis_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="redis_test" CONFIG_NAME="redis_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reduce_levels_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="reduce_levels_test" CONFIG_NAME="reduce_levels_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="release" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="release" CONFIG_NAME="release" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="repair_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="repair_test" CONFIG_NAME="repair_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rocksdb_dump" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="rocksdb_dump" CONFIG_NAME="rocksdb_dump" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rocksdb_undump" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="rocksdb_undump" CONFIG_NAME="rocksdb_undump" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rocksdbjava" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="rocksdbjava" CONFIG_NAME="rocksdbjava" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rocksdbjavastatic" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="rocksdbjavastatic" CONFIG_NAME="rocksdbjavastatic" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rocksdbjavastaticpublish" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="rocksdbjavastaticpublish" CONFIG_NAME="rocksdbjavastaticpublish" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rocksdbjavastaticpublishcentral" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="rocksdbjavastaticpublishcentral" CONFIG_NAME="rocksdbjavastaticpublishcentral" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rocksdbjavastaticrelease" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="rocksdbjavastaticrelease" CONFIG_NAME="rocksdbjavastaticrelease" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shared_lib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="shared_lib" CONFIG_NAME="shared_lib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sim_cache_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="sim_cache_test" CONFIG_NAME="sim_cache_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="skiplist_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="skiplist_test" CONFIG_NAME="skiplist_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="slice_transform_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="slice_transform_test" CONFIG_NAME="slice_transform_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spatial_db_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="spatial_db_test" CONFIG_NAME="spatial_db_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sst_dump" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="sst_dump" CONFIG_NAME="sst_dump" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sst_dump_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="sst_dump_test" CONFIG_NAME="sst_dump_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="static_lib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="static_lib" CONFIG_NAME="static_lib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="statistics_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="statistics_test" CONFIG_NAME="statistics_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringappend_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="stringappend_test" CONFIG_NAME="stringappend_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="table_properties_collector_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="table_properties_collector_test" CONFIG_NAME="table_properties_collector_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="table_reader_bench" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="table_reader_bench" CONFIG_NAME="table_reader_bench" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="table_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="table_test" CONFIG_NAME="table_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tags" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="tags" CONFIG_NAME="tags" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_libs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="test_libs" CONFIG_NAME="test_libs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thread_list_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="thread_list_test" CONFIG_NAME="thread_list_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thread_local_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="thread_local_test" CONFIG_NAME="thread_local_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tools" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="tools" CONFIG_NAME="tools" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tools_lib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="tools_lib" CONFIG_NAME="tools_lib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="transaction_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="transaction_test" CONFIG_NAME="transaction_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ttl_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="ttl_test" CONFIG_NAME="ttl_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ubsan_check" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="ubsan_check" CONFIG_NAME="ubsan_check" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ubsan_crash_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="ubsan_crash_test" CONFIG_NAME="ubsan_crash_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="uninstall" CONFIG_NAME="uninstall" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unity.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="unity.a" CONFIG_NAME="unity.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unity_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="unity_test" CONFIG_NAME="unity_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="util_merge_operators_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="util_merge_operators_test" CONFIG_NAME="util_merge_operators_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="valgrind_check" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="valgrind_check" CONFIG_NAME="valgrind_check" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="valgrind_check_0" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="valgrind_check_0" CONFIG_NAME="valgrind_check_0" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="valgrind_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="valgrind_test" CONFIG_NAME="valgrind_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="version_builder_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="version_builder_test" CONFIG_NAME="version_builder_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="version_edit_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="version_edit_test" CONFIG_NAME="version_edit_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="version_set_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="version_set_test" CONFIG_NAME="version_set_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wal_manager_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="wal_manager_test" CONFIG_NAME="wal_manager_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="watch-log" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="watch-log" CONFIG_NAME="watch-log" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whitebox_crash_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="whitebox_crash_test" CONFIG_NAME="whitebox_crash_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="write_batch_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="write_batch_test" CONFIG_NAME="write_batch_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="write_batch_with_index_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="write_batch_with_index_test" CONFIG_NAME="write_batch_with_index_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="write_callback_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="write_callback_test" CONFIG_NAME="write_callback_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="write_controller_test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="write_controller_test" CONFIG_NAME="write_controller_test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="write_stress" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="write_stress" CONFIG_NAME="write_stress" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xfunc" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TRIAD" TARGET_NAME="xfunc" CONFIG_NAME="xfunc" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.analyze" />
+      <item itemvalue="Makefile Application.blackbox_crash_test" />
+      <item itemvalue="Makefile Application.check" />
+      <item itemvalue="Makefile Application.check_0" />
+      <item itemvalue="Makefile Application.coverage" />
+      <item itemvalue="Makefile Application.crash_test" />
+      <item itemvalue="Makefile Application.dbg" />
+      <item itemvalue="Makefile Application.format" />
+      <item itemvalue="Makefile Application.gen_parallel_tests" />
+      <item itemvalue="Makefile Application.install" />
+      <item itemvalue="Makefile Application.install-shared" />
+      <item itemvalue="Makefile Application.install-static" />
+      <item itemvalue="Makefile Application.ldb_tests" />
+      <item itemvalue="Makefile Application.package" />
+      <item itemvalue="Makefile Application.parallel_backupable_db_test" />
+      <item itemvalue="Makefile Application.parallel_db_compaction_filter_test" />
+      <item itemvalue="Makefile Application.parallel_db_compaction_test" />
+      <item itemvalue="Makefile Application.parallel_db_sst_test" />
+      <item itemvalue="Makefile Application.parallel_db_test" />
+      <item itemvalue="Makefile Application.parallel_db_universal_compaction_test" />
+      <item itemvalue="Makefile Application.parallel_db_wal_test" />
+      <item itemvalue="Makefile Application.parallel_external_sst_file_test" />
+      <item itemvalue="Makefile Application.parallel_fault_injection_test" />
+      <item itemvalue="Makefile Application.parallel_inlineskiplist_test" />
+      <item itemvalue="Makefile Application.parallel_manual_compaction_test" />
+      <item itemvalue="Makefile Application.parallel_table_test" />
+      <item itemvalue="Makefile Application.release" />
+      <item itemvalue="Makefile Application.rocksdbjava" />
+      <item itemvalue="Makefile Application.rocksdbjavastatic" />
+      <item itemvalue="Makefile Application.shared_lib" />
+      <item itemvalue="Makefile Application.static_lib" />
+      <item itemvalue="Makefile Application.tags" />
+      <item itemvalue="Makefile Application.tools" />
+      <item itemvalue="Makefile Application.tools_lib" />
+      <item itemvalue="Makefile Application.uninstall" />
+      <item itemvalue="Makefile Application.valgrind_check" />
+      <item itemvalue="Makefile Application.valgrind_check_0" />
+      <item itemvalue="Makefile Application.whitebox_crash_test" />
+      <item itemvalue="Makefile Application.arena_test" />
+      <item itemvalue="Makefile Application.asan_check" />
+      <item itemvalue="Makefile Application.asan_crash_test" />
+      <item itemvalue="Makefile Application.auto_roll_logger_test" />
+      <item itemvalue="Makefile Application.autovector_test" />
+      <item itemvalue="Makefile Application.backupable_db_test" />
+      <item itemvalue="Makefile Application.blob_db_test" />
+      <item itemvalue="Makefile Application.block_based_filter_block_test" />
+      <item itemvalue="Makefile Application.block_test" />
+      <item itemvalue="Makefile Application.bloom_test" />
+      <item itemvalue="Makefile Application.c_test" />
+      <item itemvalue="Makefile Application.cache_bench" />
+      <item itemvalue="Makefile Application.cache_test" />
+      <item itemvalue="Makefile Application.check_some" />
+      <item itemvalue="Makefile Application.checkpoint_test" />
+      <item itemvalue="Makefile Application.coding_test" />
+      <item itemvalue="Makefile Application.column_aware_encoding_exp" />
+      <item itemvalue="Makefile Application.column_aware_encoding_test" />
+      <item itemvalue="Makefile Application.column_family_test" />
+      <item itemvalue="Makefile Application.commit_prereq" />
+      <item itemvalue="Makefile Application.compact_files_test" />
+      <item itemvalue="Makefile Application.compact_on_deletion_collector_test" />
+      <item itemvalue="Makefile Application.compaction_iterator_test" />
+      <item itemvalue="Makefile Application.compaction_job_stats_test" />
+      <item itemvalue="Makefile Application.compaction_job_test" />
+      <item itemvalue="Makefile Application.compaction_picker_test" />
+      <item itemvalue="Makefile Application.comparator_db_test" />
+      <item itemvalue="Makefile Application.corruption_test" />
+      <item itemvalue="Makefile Application.crc32c_test" />
+      <item itemvalue="Makefile Application.cuckoo_table_builder_test" />
+      <item itemvalue="Makefile Application.cuckoo_table_db_test" />
+      <item itemvalue="Makefile Application.cuckoo_table_reader_test" />
+      <item itemvalue="Makefile Application.date_tiered_test" />
+      <item itemvalue="Makefile Application.db_bench" />
+      <item itemvalue="Makefile Application.db_bench_tool_test" />
+      <item itemvalue="Makefile Application.db_block_cache_test" />
+      <item itemvalue="Makefile Application.db_bloom_filter_test" />
+      <item itemvalue="Makefile Application.db_compaction_filter_test" />
+      <item itemvalue="Makefile Application.db_compaction_test" />
+      <item itemvalue="Makefile Application.db_dynamic_level_test" />
+      <item itemvalue="Makefile Application.db_flush_test" />
+      <item itemvalue="Makefile Application.db_inplace_update_test" />
+      <item itemvalue="Makefile Application.db_io_failure_test" />
+      <item itemvalue="Makefile Application.db_iter_test" />
+      <item itemvalue="Makefile Application.db_iterator_test" />
+      <item itemvalue="Makefile Application.db_log_iter_test" />
+      <item itemvalue="Makefile Application.db_options_test" />
+      <item itemvalue="Makefile Application.db_properties_test" />
+      <item itemvalue="Makefile Application.db_repl_stress" />
+      <item itemvalue="Makefile Application.db_sanity_test" />
+      <item itemvalue="Makefile Application.db_sst_test" />
+      <item itemvalue="Makefile Application.db_stress" />
+      <item itemvalue="Makefile Application.db_table_properties_test" />
+      <item itemvalue="Makefile Application.db_tailing_iter_test" />
+      <item itemvalue="Makefile Application.db_test" />
+      <item itemvalue="Makefile Application.db_test2" />
+      <item itemvalue="Makefile Application.db_universal_compaction_test" />
+      <item itemvalue="Makefile Application.db_wal_test" />
+      <item itemvalue="Makefile Application.dbformat_test" />
+      <item itemvalue="Makefile Application.default" />
+      <item itemvalue="Makefile Application.delete_scheduler_test" />
+      <item itemvalue="Makefile Application.deletefile_test" />
+      <item itemvalue="Makefile Application.depend" />
+      <item itemvalue="Makefile Application.document_db_test" />
+      <item itemvalue="Makefile Application.dynamic_bloom_test" />
+      <item itemvalue="Makefile Application.env_basic_test" />
+      <item itemvalue="Makefile Application.env_mirror_test" />
+      <item itemvalue="Makefile Application.env_registry_test" />
+      <item itemvalue="Makefile Application.env_test" />
+      <item itemvalue="Makefile Application.event_logger_test" />
+      <item itemvalue="Makefile Application.external_sst_file_test" />
+      <item itemvalue="Makefile Application.fault_injection_test" />
+      <item itemvalue="Makefile Application.file_indexer_test" />
+      <item itemvalue="Makefile Application.file_reader_writer_test" />
+      <item itemvalue="Makefile Application.filelock_test" />
+      <item itemvalue="Makefile Application.filename_test" />
+      <item itemvalue="Makefile Application.flush_job_test" />
+      <item itemvalue="Makefile Application.FORCE" />
+      <item itemvalue="Makefile Application.full_filter_block_test" />
+      <item itemvalue="Makefile Application.geodb_test" />
+      <item itemvalue="Makefile Application.hash_table_test" />
+      <item itemvalue="Makefile Application.heap_test" />
+      <item itemvalue="Makefile Application.histogram_test" />
+      <item itemvalue="Makefile Application.inlineskiplist_test" />
+      <item itemvalue="Makefile Application.install-headers" />
+      <item itemvalue="Makefile Application.iostats_context_test" />
+      <item itemvalue="Makefile Application.jclean" />
+      <item itemvalue="Makefile Application.jdb_bench" />
+      <item itemvalue="Makefile Application.json_document_test" />
+      <item itemvalue="Makefile Application.jtest" />
+      <item itemvalue="Makefile Application.jtest_compile" />
+      <item itemvalue="Makefile Application.jtest_run" />
+      <item itemvalue="Makefile Application.ldb" />
+      <item itemvalue="Makefile Application.ldb_cmd_test" />
+      <item itemvalue="Makefile Application.libbz2.a" />
+      <item itemvalue="Makefile Application.liblz4.a" />
+      <item itemvalue="Makefile Application.librocksdb_debug.4.13.0.dylib" />
+      <item itemvalue="Makefile Application.librocksdb_debug.4.13.dylib" />
+      <item itemvalue="Makefile Application.librocksdb_debug.4.dylib" />
+      <item itemvalue="Makefile Application.librocksdb_debug.a" />
+      <item itemvalue="Makefile Application.librocksdb_debug.dylib" />
+      <item itemvalue="Makefile Application.librocksdb_debug_tools.a" />
+      <item itemvalue="Makefile Application.librocksdb_env_basic_test.a" />
+      <item itemvalue="Makefile Application.libsnappy.a" />
+      <item itemvalue="Makefile Application.libz.a" />
+      <item itemvalue="Makefile Application.listener_test" />
+      <item itemvalue="Makefile Application.log_test" />
+      <item itemvalue="Makefile Application.log_write_bench" />
+      <item itemvalue="Makefile Application.lru_cache_test" />
+      <item itemvalue="Makefile Application.Makefile" />
+      <item itemvalue="Makefile Application.manual_compaction_test" />
+      <item itemvalue="Makefile Application.memory_test" />
+      <item itemvalue="Makefile Application.memtable_list_test" />
+      <item itemvalue="Makefile Application.memtablerep_bench" />
+      <item itemvalue="Makefile Application.merge_helper_test" />
+      <item itemvalue="Makefile Application.merge_test" />
+      <item itemvalue="Makefile Application.merger_test" />
+      <item itemvalue="Makefile Application.mock_env_test" />
+      <item itemvalue="Makefile Application.optimistic_transaction_test" />
+      <item itemvalue="Makefile Application.option_change_migration_test" />
+      <item itemvalue="Makefile Application.options_file_test" />
+      <item itemvalue="Makefile Application.options_settable_test" />
+      <item itemvalue="Makefile Application.options_test" />
+      <item itemvalue="Makefile Application.options_util_test" />
+      <item itemvalue="Makefile Application.parallel_check" />
+      <item itemvalue="Makefile Application.perf_context_test" />
+      <item itemvalue="Makefile Application.persistent_cache_bench" />
+      <item itemvalue="Makefile Application.persistent_cache_test" />
+      <item itemvalue="Makefile Application.plain_table_db_test" />
+      <item itemvalue="Makefile Application.prefix_test" />
+      <item itemvalue="Makefile Application.rate_limiter_test" />
+      <item itemvalue="Makefile Application.redis_test" />
+      <item itemvalue="Makefile Application.reduce_levels_test" />
+      <item itemvalue="Makefile Application.repair_test" />
+      <item itemvalue="Makefile Application.rocksdb_dump" />
+      <item itemvalue="Makefile Application.rocksdb_undump" />
+      <item itemvalue="Makefile Application.rocksdbjavastaticpublish" />
+      <item itemvalue="Makefile Application.rocksdbjavastaticpublishcentral" />
+      <item itemvalue="Makefile Application.rocksdbjavastaticrelease" />
+      <item itemvalue="Makefile Application.sim_cache_test" />
+      <item itemvalue="Makefile Application.skiplist_test" />
+      <item itemvalue="Makefile Application.slice_transform_test" />
+      <item itemvalue="Makefile Application.spatial_db_test" />
+      <item itemvalue="Makefile Application.sst_dump" />
+      <item itemvalue="Makefile Application.sst_dump_test" />
+      <item itemvalue="Makefile Application.statistics_test" />
+      <item itemvalue="Makefile Application.stringappend_test" />
+      <item itemvalue="Makefile Application.table_properties_collector_test" />
+      <item itemvalue="Makefile Application.table_reader_bench" />
+      <item itemvalue="Makefile Application.table_test" />
+      <item itemvalue="Makefile Application.test_libs" />
+      <item itemvalue="Makefile Application.thread_list_test" />
+      <item itemvalue="Makefile Application.thread_local_test" />
+      <item itemvalue="Makefile Application.transaction_test" />
+      <item itemvalue="Makefile Application.ttl_test" />
+      <item itemvalue="Makefile Application.ubsan_check" />
+      <item itemvalue="Makefile Application.ubsan_crash_test" />
+      <item itemvalue="Makefile Application.unity.a" />
+      <item itemvalue="Makefile Application.unity_test" />
+      <item itemvalue="Makefile Application.util_merge_operators_test" />
+      <item itemvalue="Makefile Application.valgrind_test" />
+      <item itemvalue="Makefile Application.version_builder_test" />
+      <item itemvalue="Makefile Application.version_edit_test" />
+      <item itemvalue="Makefile Application.version_set_test" />
+      <item itemvalue="Makefile Application.wal_manager_test" />
+      <item itemvalue="Makefile Application.watch-log" />
+      <item itemvalue="Makefile Application.write_batch_test" />
+      <item itemvalue="Makefile Application.write_batch_with_index_test" />
+      <item itemvalue="Makefile Application.write_callback_test" />
+      <item itemvalue="Makefile Application.write_controller_test" />
+      <item itemvalue="Makefile Application.write_stress" />
+      <item itemvalue="Makefile Application.xfunc" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9cd3ec2-226f-495b-8a70-ae856e5f5653" name="Default Changelist" comment="" />
+      <created>1625227187325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625227187325</updated>
+      <workItem from="1625227189465" duration="2855000" />
+      <workItem from="1625539846162" duration="25785000" />
+      <workItem from="1626316847797" duration="19304000" />
+    </task>
+    <task id="LOCAL-00001" summary="copy zipfian from github unchanged">
+      <created>1626344982192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626344982192</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add define sum_probs and zipf_sum_size">
+      <created>1626662535535</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626662535535</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add define user_timestamp_size_">
+      <created>1626678518117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626678518118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change option.h to add timestamp into struct option/write_option">
+      <created>1626696685749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626696685749</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change option.h to add timestamp into struct option/write_option">
+      <created>1626696794156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626696794156</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change rate_limiter.h from CompactionAnalysis">
+      <created>1626698123478</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626698123478</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change Makefile 'CXXFLAGS += -std=gnu++11'">
+      <created>1626700848008</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626700848009</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="copy zipfian from github unchanged" />
+    <MESSAGE value="add define sum_probs and zipf_sum_size" />
+    <MESSAGE value="add define user_timestamp_size_" />
+    <MESSAGE value="change option.h to add timestamp into struct read_option/write_option" />
+    <MESSAGE value="change option.h to add timestamp into struct option/write_option" />
+    <MESSAGE value="change rate_limiter.h from CompactionAnalysis" />
+    <MESSAGE value="change Makefile 'CXXFLAGS += -std=gnu++11'" />
+    <option name="LAST_COMMIT_MESSAGE" value="change Makefile 'CXXFLAGS += -std=gnu++11'" />
+  </component>
+</project>

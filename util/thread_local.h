@@ -13,6 +13,7 @@
 #include <memory>
 #include <unordered_map>
 #include <vector>
+#include <functional>
 
 #include "util/autovector.h"
 #include "port/port.h"
